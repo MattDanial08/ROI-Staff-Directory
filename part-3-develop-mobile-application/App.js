@@ -4,7 +4,7 @@ import { Text, View, StyleSheet, TouchableOpacity, SafeAreaView } from 'react-na
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.header}>Welcome Back!</Text>
+      <Text style={styles.header}>Welcome to ROI Staff Directory</Text>
 
       <View style={styles.tilesContainer}>
         <TouchableOpacity style={styles.tile}>
